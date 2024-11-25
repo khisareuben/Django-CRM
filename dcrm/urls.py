@@ -6,4 +6,3 @@ urlpatterns = [
     path('', include('website.urls')),
 ]
 
-urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROT)
