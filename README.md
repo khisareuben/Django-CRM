@@ -11,6 +11,11 @@ I didn't want to engage in a big project which could overwhelm me and yet i don'
 **CRM** stands for **Customer Relationship Management**. Think of it like a magic notebook where businesses keep track of their customers and all the important details about them.
 
 # Installation
+- clone the repository
+  ```
+  git clone https://github.com/khisareuben/Django-CRM.git
+  ```
+- cd into the directory where `manage.py` is (root directory of the project)
 - create the virtual environment and activate it
   ```
   python -m venv env
