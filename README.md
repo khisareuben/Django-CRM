@@ -30,7 +30,7 @@ I didn't want to engage in a big project which could overwhelm me and yet i don'
   pip install -r requirements.txt
   ```
 
-- make changes to the settings.py and mydb.py
+- make changes to the `settings.py` and `mydb.py`
   ```
   change the user and password to your mysql credentials
   ```
